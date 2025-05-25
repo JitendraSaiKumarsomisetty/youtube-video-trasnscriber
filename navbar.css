@@ -1,0 +1,216 @@
+#nav-item1
+{
+   color:white;
+   font-family:'ROboto';
+}
+#nav-item2
+{
+    color:white;
+    font-family:'Roboto';
+}
+#nav-item3
+{
+    color:white;
+    font-family:'Roboto';
+}
+#nav-item4
+{
+    color:white;
+   font-family:'Roboto';
+}
+#nav-item5
+{
+    color:white;
+    font-family:'Roboto';
+}
+#nav-item6
+{
+    color:white;
+    font-family:'Roboto';
+}
+.logo
+{
+    height:70px;
+    width:80px;
+}
+
+.b-container
+{
+    background-image:url("https://img.freepik.com/premium-vector/abstract-background-with-youtube-logo_52683-26642.jpg?ga=GA1.1.157794844.1725351975&semt=ais_hybrid");
+    background-size:cover;
+    height:100vh;
+    opacity: 1;
+}
+.navbar-heading
+{
+    color:white;
+    padding:70px;
+    font-weight:bold;
+    font-size:90px;
+}
+.navbar-paragraph
+{
+    color:white;
+    font-size:35px;
+}
+.text
+{
+    color:white;
+}
+
+
+.wcu-heading3
+{
+    color:blue;
+    font-weight:26px;
+}
+.wcu-heading1
+{
+    font-weight: bold;
+}
+.wcu-para
+{
+    color:#323f4b;
+    font-size:18px;
+}
+.wcu-para2
+{
+    font-weight: bold;
+    font-size:25px;
+}
+.wcu-para3
+{
+    color:#323f4b;
+    font-size:20px;
+}
+.wcu-image
+{
+    height:300px;
+    width:150px;
+    border-radius: 20px;
+}
+
+
+
+.about-heading3{
+    color:blue;
+}
+.about-heading1
+{
+    font-weight:bold;
+}
+.about-image{
+    border-radius:25px;
+    height:450px;
+    width:500px;
+}
+.para-tick
+{
+    font-weight:bold;
+    font-size:20px;
+}
+.about-par
+{
+    color:#323f4b;
+    font-size:20px;
+}
+
+
+
+.main-container
+{
+    background-image:url("https://img.freepik.com/free-vector/circles-background-dark-tones_60389-166.jpg?t=st=1725777746~exp=1725781346~hmac=dfc8125a75360970072e024849c6c0c7061566b6f81a159d819eef5aacdf8e9b&w=900");
+    height:100vh;
+    background-size: cover;
+}
+.in-container
+{
+     padding:400px;
+     
+}
+.main-heading
+{
+    color:white;
+    font-weight:bold;
+}
+.main-paragraph
+{
+    color:white;
+}
+
+
+
+.study-heading3{
+    color:blue;
+    font-size: 24px;
+    font-weight:bold;
+}
+.study-main
+{
+    text-align:center;
+}
+.study-heading1{
+    color:black;
+    font-size: 40px;
+    font-weight:bold;
+
+
+}
+.study-para{
+    
+    color:black;
+    font-size:24px;
+    font-weight:bold;
+
+}
+.study-para1{
+    color:#323f4b;
+    font-size: 18px;
+}
+.study-para2{
+    color:blue;
+    font-size: 18px;
+}
+.study-image
+{
+    height:250px;
+    width:300px;
+    border-radius:20px;
+}
+
+
+
+.footer
+{
+    background-color: #0d2436;
+    background-size: cover;
+    font-family:'Roboto';
+}
+.footer-head
+{
+    color: #cced00;
+    font-weight:700;
+    font-size:30px;
+}
+.footer-para
+{
+    color:#9aa5b1;
+    font-size:18px;
+}
+.logos
+{
+    color:#5a7184;
+    font-size:30px;
+}
+
+.im-set
+{
+    border-radius:50%;
+    height:90px;
+    width:90px;
+}
+.bottom-container
+{
+    background-color: #0d2436;
+    background-size: cover;
+}

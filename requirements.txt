@@ -1,0 +1,7 @@
+  # requirements.txt
+"""
+streamlit
+python-dotenv
+openai
+youtube-transcript-api
+"""
